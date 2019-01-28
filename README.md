@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Everyone!
+
+Arshia here. This is my first homework for mobile computing course.
